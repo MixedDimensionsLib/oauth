@@ -1,0 +1,106 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "mixeddimensions-oauth@~0.9.11",
+        "scope": null,
+        "escapedName": "mixeddimensions-oauth",
+        "name": "mixeddimensions-oauth",
+        "rawSpec": "~0.9.11",
+        "spec": ">=0.9.11 <0.10.0",
+        "type": "range"
+      },
+      "/home/abed/gameprint/node_modules/shapeways"
+    ],
+    [
+      {
+        "raw": "mixeddimensions-oauth@~0.9.11",
+        "scope": null,
+        "escapedName": "mixeddimensions-oauth",
+        "name": "mixeddimensions-oauth",
+        "rawSpec": "~0.9.11",
+        "spec": ">=0.9.11 <0.10.0",
+        "type": "range"
+      },
+      "/home/abed/gameprint/node_modules/mixeddimensions-shapeways"
+    ]
+  ],
+  "_from": "mixeddimensions-oauth@~0.9.11",
+  "_id": "mixeddimensions-oauth@0.9.14",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/mixeddimensions-oauth",
+  "_nodeVersion": "4.2.6",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/mixeddimensions-oauth-0.9.14.tgz_1482920453520_0.6400908404029906"
+  },
+  "_npmUser": {
+    "name": "abed.jaradat",
+    "email": "abedjaradat2014@gmail.com"
+  },
+  "_npmVersion": "3.10.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "mixeddimensions-oauth@~0.9.11",
+    "scope": null,
+    "escapedName": "mixeddimensions-oauth",
+    "name": "mixeddimensions-oauth",
+    "rawSpec": "~0.9.11",
+    "spec": ">=0.9.11 <0.10.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/mixeddimensions-shapeways"
+  ],
+  "_resolved": "https://registry.npmjs.org/mixeddimensions-oauth/-/mixeddimensions-oauth-0.9.14.tgz",
+  "_shasum": "88a63ce5620476bf800b99391035b582c6d63318",
+  "_shrinkwrap": null,
+  "_spec": "mixeddimensions-oauth@~0.9.11",
+  "_where": "/home/abed/gameprint/node_modules/mixeddimensions-shapeways",
+  "author": {
+    "name": "abedjaradat",
+    "email": "abedjaradat2014@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/abedjaradat/oauth/issues"
+  },
+  "dependencies": {},
+  "description": "Library for interacting with OAuth 1.0, 1.0A, 2 and Echo.  Provides simplified client access and allows for construction of more complex apis and OAuth providers.",
+  "devDependencies": {
+    "vows": "0.5.x"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "dist": {
+    "shasum": "88a63ce5620476bf800b99391035b582c6d63318",
+    "tarball": "https://registry.npmjs.org/mixeddimensions-oauth/-/mixeddimensions-oauth-0.9.14.tgz"
+  },
+  "gitHead": "eefd821ea9b010a44ba49afa048a421ea23e7502",
+  "homepage": "https://github.com/abedjaradat/oauth",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/abedjaradat/oauth/raw/master/LICENSE"
+    }
+  ],
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "abedjaradat",
+      "email": "abedjaradat2014@gmail.com"
+    }
+  ],
+  "name": "mixeddimensions-oauth",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abedjaradat/oauth.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "0.9.14"
+}
